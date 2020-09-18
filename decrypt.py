@@ -16,4 +16,6 @@ decrypted = fernet.decrypt(data)
 with open('text.txt.decrypted','wb') as f:
 	f.write(decrypted)
 
+print("x")
+
 
