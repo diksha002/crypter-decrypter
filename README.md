@@ -44,7 +44,7 @@ Dessous contient des `lignes de codes`.
   - toDecrypt : inserer les fichiers à decrypter ici
   - decrypted : les fichiers qui sont déjà decrypted seront envoyer dans ce dossier
   
-## Le chemin d'accès vers votre dossier git et autres dossier
+### Le chemin d'accès vers votre dossier git et autres dossier
 - Veuiller taper la commande `pwd` sur votre terminal pour avoir le chemin d'acces vers votre projet git et modifier les chemins d'acces dans chaque fichier. 
 - Modifier votre chemin d'acces daprès où vous avez cloner votre projet.
   
