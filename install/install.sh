@@ -10,8 +10,11 @@ mkdir crypted
 mkdir toDecrypt
 mkdir decrypted
 
+python /home/user/crypter-decrypter/python files/key.py
+
 cp /home/user/crypter-decrypter/service/crypt.service /etc/systemd/system/
 cp /home/user/crypter-decrypter/service/decrypt.service /etc/systemd/system/
+
 
 cd ~/etc/systemd/system
 
