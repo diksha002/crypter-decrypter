@@ -47,10 +47,10 @@ Dessous contient des `lignes de codes`.
 ### Pour Crypter:
 - inserer un fichier dans le dossier ToCrypt pour le crypter et recuperer la version crypté dans le dossier crypted.
 
-### Pour decrypter
+### Pour decrypter:
 - inserer un fichier dans le dossier toDecrypt pour le decrypter et recuperer la version decrypté dans le dossier decrypted.
 
-### Pour arreter le service
+### Pour arreter le service:
 ```
 - $ cd ~/etc/systemd/system
 - $ sudo systemctl stop nom_du_service
